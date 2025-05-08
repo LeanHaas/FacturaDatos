@@ -1,6 +1,0 @@
-
-"PARA QUE SE ACTUALICE LO QUE HICISTE Y PORQUE"
-git add .
-git commit -m "Tu mensaje de cambio"
-git push
- 
